@@ -12,6 +12,7 @@ The home of community-sourced data about the fleet of cars [openpilot](https://g
 | FORD_F_150_MK14                 | master, user report                            | [View](longitudinal_reports/FORD_F_150_MK14_e36b272d5679115f_000000bb--41f562d6c4.html)        |
 | KIA_EV6                         | master                                         | [View](longitudinal_reports/KIA_EV6_09ed4c7e7b4937fb_00000208--b531b1cb05.html)                |
 | LEXUS_ES_TSS2                   | new tune                                       | [View](longitudinal_reports/LEXUS_ES_TSS2_57048cfce01d9625_00000208--c387e67187.html)          |
+| LEXUS_ES_TSS2                   | new tune w/ learning PCM accel net             | [View](longitudinal_reports/LEXUS_ES_TSS2_57048cfce01d9625_000002f2--8e0323dcd4.html)          |
 | LEXUS_NX_TSS2                   | master, user report                            | [View](longitudinal_reports/LEXUS_NX_TSS2_638cbbe25b377cd1_00000025--94f1abbe23.html)          |
 | TESLA_MODEL_3                   | master, user report                            | [View](longitudinal_reports/TESLA_MODEL_3_c0fe59cc1ebbd1b3_0000000f--06e674a8d7.html)          |
 | TOYOTA_COROLLA_TSS2 (hybrid)    | master, user report                            | [View](longitudinal_reports/TOYOTA_COROLLA_TSS2_7c7d3d5e5ff31d51_00000017--84c3f8cedf.html)    |
