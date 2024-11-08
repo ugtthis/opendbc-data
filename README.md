@@ -19,6 +19,7 @@ The home of community-sourced data about the fleet of cars [openpilot](https://g
 | TOYOTA_COROLLA_TSS2 (hybrid)    | master, user report                            | [View](longitudinal_reports/TOYOTA_COROLLA_TSS2_c16896da5621b481_00000038--ba29565d02.html)    |
 | TOYOTA_CAMRY_TSS2 (hybrid)      | master                                         | [View](longitudinal_reports/TOYOTA_CAMRY_TSS2_08e4c2a99df165b1_00000233--1df13bd705.html)      |
 | TOYOTA_CAMRY_TSS2 (hybrid)      | master w/ permit braking                       | [View](longitudinal_reports/TOYOTA_CAMRY_TSS2_08e4c2a99df165b1_00000307--d00f531092.html)      |
+| TOYOTA_CAMRY_TSS2 (hybrid)      | master w/ rate limited permit braking          | [View](longitudinal_reports/TOYOTA_CAMRY_TSS2_6483a59cd49b6650_00000062--f6537659bd.html)      |
 | TOYOTA_CAMRY_TSS2 (hybrid)      | various start from stop w/ permit braking      | [View](longitudinal_reports/TOYOTA_CAMRY_TSS2_7852e9f76b7e6e8a_0000002f--b994f1c411.html)      |
 | TOYOTA_CAMRY_TSS2 (hybrid)      | high speed gas step response w/ permit braking | [View](longitudinal_reports/TOYOTA_CAMRY_TSS2_7852e9f76b7e6e8a_00000032--0e0ac9c0d1.html)      |
 | TOYOTA_COROLLA_TSS2             | master                                         | [View](longitudinal_reports/TOYOTA_COROLLA_TSS2_a2bddce0b6747e10_000002a8--842d636732.html)    |
