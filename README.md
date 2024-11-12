@@ -28,4 +28,5 @@ The home of community-sourced data about the fleet of cars [openpilot](https://g
 | TOYOTA_CAMRY_TSS2 (hybrid)      | high speed gas step response w/ permit braking | [View](longitudinal_reports/TOYOTA_CAMRY_TSS2_7852e9f76b7e6e8a_00000032--0e0ac9c0d1.html)      |
 | TOYOTA_HIGHLANDER_TSS2 (hybrid) | master, user report                            | [View](longitudinal_reports/TOYOTA_HIGHLANDER_TSS2_a447729c1d15ff89_00000063--937039a5e9.html) |
 | TOYOTA_HIGHLANDER_TSS2 (hybrid) | master, user report                            | [View](longitudinal_reports/TOYOTA_HIGHLANDER_TSS2_a447729c1d15ff89_00000022--b222911f07.html) |
+| TOYOTA_HIGHLANDER_TSS2 (hybrid) | rate limited permit braking, user report       | [View](longitudinal_reports/TOYOTA_HIGHLANDER_TSS2_a447729c1d15ff89_0000000f--0f720dfa3a.html) |
 | TOYOTA_PRIUS_TSS2               | pcm accel compensation, user report            | [View](longitudinal_reports/TOYOTA_PRIUS_TSS2_74b008694de53cc1_00000034--0faa8ed1ab.html)      |
