@@ -20,6 +20,7 @@ The home of community-sourced data about the fleet of cars [openpilot](https://g
 | TESLA_MODEL_3                   | master, user report                            | [View](longitudinal_reports/TESLA_MODEL_3_c0fe59cc1ebbd1b3_0000000f--06e674a8d7.html)          |
 | TOYOTA_COROLLA_TSS2             | master                                         | [View](longitudinal_reports/TOYOTA_COROLLA_TSS2_a2bddce0b6747e10_000002a8--842d636732.html)    |
 | TOYOTA_COROLLA_TSS2             | master w/ rate limited permit braking          | [View](longitudinal_reports/TOYOTA_COROLLA_TSS2_a2bddce0b6747e10_000003a9--cbb0f4bdcc.html)    |
+| TOYOTA_COROLLA_TSS2             | new tune w/ adaptive PCM accel net             | [View](longitudinal_reports/TOYOTA_COROLLA_TSS2_a2bddce0b6747e10_000004fe--1b980939f0.html)    |
 | TOYOTA_COROLLA_TSS2 (hybrid)    | master, user report                            | [View](longitudinal_reports/TOYOTA_COROLLA_TSS2_7c7d3d5e5ff31d51_00000017--84c3f8cedf.html)    |
 | TOYOTA_COROLLA_TSS2 (hybrid)    | master, user report                            | [View](longitudinal_reports/TOYOTA_COROLLA_TSS2_c16896da5621b481_00000038--ba29565d02.html)    |
 | TOYOTA_COROLLA_TSS2 (hybrid)    | rate limited permit braking, user report       | [View](longitudinal_reports/TOYOTA_COROLLA_TSS2_c16896da5621b481_00000005--224246799e.html)    |
